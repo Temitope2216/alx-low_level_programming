@@ -1,1 +1,1 @@
-positive anything is better than negative nithing
+the last digit
