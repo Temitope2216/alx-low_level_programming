@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * main - A function that prints stuff
+ * Return: Prove that it is successful
  */
 int main(void)
 {
