@@ -1,1 +1,1 @@
-print_array
+strcpy
