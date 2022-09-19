@@ -1,1 +1,1 @@
-length
+puts
