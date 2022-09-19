@@ -1,1 +1,1 @@
-puts_half
+print_array
