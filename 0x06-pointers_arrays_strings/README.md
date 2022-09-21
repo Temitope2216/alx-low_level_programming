@@ -1,1 +1,1 @@
-printnum
+magic
