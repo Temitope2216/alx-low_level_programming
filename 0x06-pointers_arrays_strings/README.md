@@ -1,1 +1,1 @@
-copy
+compare
