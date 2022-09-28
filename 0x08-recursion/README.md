@@ -1,1 +1,1 @@
-prime
+palindrome
