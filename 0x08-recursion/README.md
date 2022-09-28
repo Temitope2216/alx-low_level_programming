@@ -1,1 +1,1 @@
-factorial
+pow
