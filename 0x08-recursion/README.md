@@ -1,1 +1,1 @@
-pow
+sqrt
