@@ -1,1 +1,1 @@
-printdog
+init
