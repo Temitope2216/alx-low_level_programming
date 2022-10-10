@@ -1,1 +1,1 @@
-islower
+objects_like_macro
