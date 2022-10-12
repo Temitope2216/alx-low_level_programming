@@ -1,1 +1,1 @@
-printme
+myarray
