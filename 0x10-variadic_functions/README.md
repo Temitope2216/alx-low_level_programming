@@ -1,1 +1,1 @@
-printnumber
+printall
