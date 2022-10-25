@@ -1,1 +1,1 @@
-print_safe
+free_safe
