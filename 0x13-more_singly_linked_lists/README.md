@@ -1,1 +1,1 @@
-insert
+delete_in_the_node
