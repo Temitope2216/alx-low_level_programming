@@ -1,1 +1,1 @@
-get_node_in_the_index
+sum_of_the_list
